@@ -46,7 +46,7 @@ deploy:
   description: Raspberry Pi Arm Trusted Firmware v$(ATF_VERSION)
   provider: GitHub
   auth_token:
-    secure: w5YuQOim+G+U7FxxrL0BH6t0trCWKCs9DMZlF4xqF2XGC6SymzwaJrPWrKeeJHPK
+    secure: Vto4rdjmKqF4sOdVK0gLo6XjkdNsxlvZAXAh8OH8X0hLmBoDaJ0d1pMs1hMjHhnz
   artifact: /.*\.bin/
   draft: false
   prerelease: false
