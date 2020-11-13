@@ -9,7 +9,7 @@ skip_commits:
     - '**/*.txt'
 
 environment:
-  ATF_VERSION: 2.3
+  ATF_VERSION: v2.4-rc0
 
 install:
   - sh: sudo apt-get update -qq
